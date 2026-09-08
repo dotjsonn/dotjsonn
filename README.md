@@ -29,6 +29,9 @@ I'm a developer focused on building practical and reliable web applications whil
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge\&logo=tailwindcss)
+![Axios](https://img.shields.io/badge/axios.js-854195?style=for-the-badge&logo=axios&logoColor=5A29E4)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 </div>
 
@@ -41,5 +44,6 @@ I'm a developer focused on building practical and reliable web applications whil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jason-espallardo-870913285/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/jezpllrd)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/dotjson_/)
+[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge\&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/dotjson__)
 
 </div>
